@@ -9,4 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Project #1 - Harvard Volleyball
 
+  My initial pro of this project is it's relevance.  This is a project that Harvard Volleyball could take and use to improve their in-game performance.  Additionally, it has the look and feel of a professional piece of sports analytics that sites like 538 would put out or that would be circulated within a sports organization.  Another pro of this project is how encompassing the data is; th author's data incorporates almost every aspect of a volleyball game, from serve to set.
+  My initial con of this project is the data gathering process.  Every single datapoint in this project was meticulously gathered by hand.  In addition, the speed at which volleyball moves, the fact that the author is gathering numerous pieces of data on every point, and the fact that some of these games were on the road makes that collection very difficult (maybe the author had friends helping with this process? or the author watched film?)  
+  
+Project #2 - Texas Death Penalty
+
+  There are two cons that jumpt out at me when looking at this project.  First, I am not sold that the word map is the best way to demonstrate the most popular words.  One, the sense of scale, while apparent, is not concrete, and two, I can't see/read any word beyond the most popular and just below most popular.  The other con is amount of data.  Is it enough? I understand that the auther can't really go get more, but is it enough in general? I guess so.
+  The biggest pro of this project and thing I loved the most was the random statement generator.  Death is a serious matter, and by showing the viewer one statement at a time, the viewer is allowed to see each inmate as a human rather than a statistic, somehthing I believe is important even with some of the worst humanity has to offer.  This feature also makes us think about the data in the rest of the project on a deeper level, as it humanizes every data point.
